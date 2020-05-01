@@ -35,4 +35,4 @@ Developed in VSCode+Platformio / VSCommunity.
   - install WireShark, copy into Program Files\Wireshark\plugins files from Wireshark dir (only one !! of mysensors.dll)
   - run Nrf24Sniff.exe -h to see help text
   
-Add pipe connection in Wireshark [\\.\pipe\wireshark] and go.
+Add pipe connection in Wireshark [\\\\.\pipe\wireshark] and go.
