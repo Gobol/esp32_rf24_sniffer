@@ -36,3 +36,7 @@ Developed in VSCode+Platformio / VSCommunity.
   - run Nrf24Sniff.exe -h to see help text
   
 Add pipe connection in Wireshark [\\\\.\pipe\wireshark] and go.
+
+NOTE:
+https://developercommunity.visualstudio.com/content/problem/967670/hello-world-c-program-reported-as-trojanwin32wacat.html
+
